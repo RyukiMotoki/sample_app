@@ -9,7 +9,8 @@ class ListsController < ApplicationController
     redirect_to "/top"
   end
 
-  def index
+  def inde
+
   end
 
   def show
